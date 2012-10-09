@@ -1,0 +1,18 @@
+= About This Project
+
+This project demonstrates how to put together a simple SDK Add-on for Android Open Source Project (AOSP).
+
+Clone into aosp/device/marakana/alpha_sdk_addon
+
+Requires https://github.com/marakana/alpha
+
+This code was developed to support Marakana's Android Training courses.
+
+For more info, see http://marakana.com/training/android/
+
+== Legal
+
+Please see ++NOTICE++ file in this directory for copyright, license terms, and legal disclaimers.
+
+Copyright © 2012 Marakana Inc.
+

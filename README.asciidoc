@@ -1,0 +1,43 @@
+= Android Internals
+
+28 August 2012
+
+*Ken Jones*, <ken@marakana.com>
+http://marakana.com[Marakana, Inc.]
+
+To clone the repository:
+
+	git clone git://github.com/marakana/internals-2012-10-09.git
+
+or
+
+	git clone http://github.com/marakana/internals-2012-10-09.git
+
+or download a Zip archive by clicking the link above.
+
+== Useful Links
+
+* Android Developer videos on YouTube: http://www.youtube.com/user/androiddevelopers
+
+** This includes videos from http://www.youtube.com/playlist?list=PL4C6BCDE45E05F49E&feature=plcp[Google I/O 2012] and previous years
+
+** Be sure to check out the http://www.youtube.com/user/androiddevelopers/videos?view=1[playlists]
+
+* Some specific Google I/O videos of interest:
+
+** http://www.youtube.com/watch?v=Q8m9sHdyXnE&feature=plcp[For Butter of Worse: Smoothing Out Performance in Android UIs]
+** http://www.youtube.com/watch?v=v9S5EO7CLjo&feature=plcp[Accelerated Android Rendering]
+** http://www.youtube.com/watch?v=YmCqJlzIUXs&feature=plcp[New Low-Level Media APIs in Android]
+
+* Integrating a Hardware Video Codec into Android Stagefright using OpenMAX IL, by Damian Hobson Garcia
+
+** http://elinux.org/images/5/52/Elc2011_garcia.pdf[Slides]
+** http://free-electrons.com/pub/video/2011/elc/elc-2011-garcia-matsubara-hayama-munakata-video-codec-android-openmax-il-x450p.webm[Video]
+
+* A quick intro to using the new NDK plugin in Eclipse: http://tools.android.com/recent/usingthendkplugin
+
+* Android Porting Guide (obsolete!): http://www.kandroid.org/online-pdk/guide/index.html
+
+* Binder driver overview: http://lukejin.wordpress.com/2011/03/13/android%E4%B8%AD%E7%9A%84binder/
+
+* Description of native Binder use: http://www.scribd.com/doc/24499613/Android-IPC-Binder
