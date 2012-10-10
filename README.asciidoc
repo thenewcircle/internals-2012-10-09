@@ -29,6 +29,8 @@ or download a Zip archive by clicking the link above.
 ** http://www.youtube.com/watch?v=v9S5EO7CLjo&feature=plcp[Accelerated Android Rendering]
 ** http://www.youtube.com/watch?v=YmCqJlzIUXs&feature=plcp[New Low-Level Media APIs in Android]
 
+* A blog post providing more details on system property management: http://rxwen.blogspot.com/2010/01/android-property-system.html
+
 * Integrating a Hardware Video Codec into Android Stagefright using OpenMAX IL, by Damian Hobson Garcia
 
 ** http://elinux.org/images/5/52/Elc2011_garcia.pdf[Slides]
