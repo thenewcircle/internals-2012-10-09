@@ -43,3 +43,31 @@ or download a Zip archive by clicking the link above.
 * Binder driver overview: http://lukejin.wordpress.com/2011/03/13/android%E4%B8%AD%E7%9A%84binder/
 
 * Description of native Binder use: http://www.scribd.com/doc/24499613/Android-IPC-Binder
+
+== Screencasts
+
+You can download the screencasts for the class using the following links:
+
+.Day 1
+* http://marakana.com/external/video/2012-10-09-internals/day1-part1.mov
+* http://marakana.com/external/video/2012-10-09-internals/day1-part2.mov
+* http://marakana.com/external/video/2012-10-09-internals/day1-part3.mov
+* http://marakana.com/external/video/2012-10-09-internals/day1-part4.mov
+
+.Day 2
+* http://marakana.com/external/video/2012-10-09-internals/day2-part1.mov
+* http://marakana.com/external/video/2012-10-09-internals/day2-part2.mov
+* http://marakana.com/external/video/2012-10-09-internals/day2-part3.mov
+* http://marakana.com/external/video/2012-10-09-internals/day2-part4.mov
+
+.Day 3
+* http://marakana.com/external/video/2012-10-09-internals/day3-part1.mov
+* http://marakana.com/external/video/2012-10-09-internals/day3-part2.mov
+* http://marakana.com/external/video/2012-10-09-internals/day3-part3.mov
+* http://marakana.com/external/video/2012-10-09-internals/day3-part4.mov
+
+.Day 4
+* http://marakana.com/external/video/2012-10-09-internals/day4-part1.mov
+* http://marakana.com/external/video/2012-10-09-internals/day4-part2.mov
+* http://marakana.com/external/video/2012-10-09-internals/day4-part3.mov
+* http://marakana.com/external/video/2012-10-09-internals/day4-part4.mov
